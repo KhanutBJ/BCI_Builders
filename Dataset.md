@@ -1,7 +1,15 @@
 # Dataset
 
+data can be obtained from:
+    MIGRAINE: https://drive.google.com/drive/folders/11s6nZlc7vT3LAmCsi9fv24Vgg-NWR9Hv?usp=sharing
+    CONTROL: https://drive.google.com/drive/folders/11v-6jAimU0NAu_6FUbXC3j4yJtd4440t?usp=sharing
+
+Note: 
+dataset collected from 
+"Ultra high-density EEG recording of interictal migraine and controls: sensory and rest"
+link: https://kilthub.cmu.edu/articles/dataset/Ultra_high-density_EEG_recording_of_interictal_migraine_and_controls_sensory_and_rest/12636731
 Link:
 
-[Migraine](https://drive.google.com/drive/folders/11s6nZlc7vT3LAmCsi9fv24Vgg-NWR9Hv?usp=sharing)
+[Migraine](https://drive.google.com/drive/folders/11s6nZlc7vT3LAmCsi9fv24Vgg-NWR9Hv?usp=sharing) (18 Migraine subjects)
 
-[Control](https://drive.google.com/drive/folders/11v-6jAimU0NAu_6FUbXC3j4yJtd4440t?usp=sharing)
+[Control](https://drive.google.com/drive/folders/11v-6jAimU0NAu_6FUbXC3j4yJtd4440t?usp=sharing) (18 Control subjects)
