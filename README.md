@@ -12,5 +12,4 @@ Medium: [*link*](https://medium.com/p/120bc69fb720/edit)
   — control (18 subjects)
 — Jupyter notebook
 — model
-— example_input
 ``` 
